@@ -65,7 +65,7 @@ Confusion matrices, training curves, and sample predictions are shown in the not
 
 ## How to run
 
-1. Open `jurnal_Final__Re_fix_.ipynb` in Google Colab (GPU runtime recommended).
+1. Open `covid19_cnn_experiments.ipynb` in Google Colab (GPU runtime recommended).
 2. Upload your own `kaggle.json` to `/content/.kaggle/`.
 3. Run all cells in order.
 
